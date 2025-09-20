@@ -1,0 +1,38 @@
+body {                          
+     background-color: #5084FF
+
+}
+    
+img { 
+    border-radius: 60%;
+}
+
+h1 { 
+     font-family: 'Montserrat', sans-serif;text-align: center;font-weight: 500
+      } 
+
+table { 
+    font-family: 'Montserrat', sans-serif;
+    width: 60%; 
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    border: 2px;
+    border-radius: 12px;
+}  
+
+th, td { 
+    padding: 10px;
+} 
+
+th { 
+    text-align: left;
+    background-color: #FFBD94;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+} 
+
+td { 
+    background-color: #FFBD94;
+    padding: 10px 20px;
+ 
+}

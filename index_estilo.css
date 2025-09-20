@@ -1,0 +1,15 @@
+
+body { 
+    text-align: center;font-family: 'Noto Sans', sans-serif
+}
+
+
+
+footer { 
+    font-size: 15px;
+    text-align: center; 
+    padding: 15px; 
+    margin-top: 40px; 
+    border-radius: 15px 15px 0 0; 
+    box-shadow: 0 -5px 15px;
+}
